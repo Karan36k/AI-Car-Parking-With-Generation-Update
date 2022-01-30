@@ -1,12 +1,13 @@
 # Smartcars
 
 <br />
-I was working through Daniel Shiffman's The Nature of Code and wanted to try making a genetic algorithm.
+Ianted to try making a parking system
 <br />
 
-###### Cars are made from two arrays of DNA that carry instructions for each frame of animation:
+###### According to each fps of animation these sars are made from two arrays of DNA.
 - Pedal DNA: Tells the car wether to hit the gas pedal, do nothing, or brake.
 - Wheel DNA: Tells the car to rotate the wheel by a certain angle.
 
 <br />
-https://epiqueras.github.io/smartcars/
+
+All credits to: Mr. Daniel Shiffman
